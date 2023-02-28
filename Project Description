@@ -1,0 +1,5 @@
+# Multivariate-analysis-on-Cereals
+This project aims at multivariate analysis of different types of cereals available in the American market on the basis of their nutritional content like the amount of protein,
+carbohydrates, fats, sodium, etc and its visualization using python modules. It uses multiple Machine learning models like KNN, Logistic Regression, Linear regression, Decision Tree and Random Forest.
+this project has a wide application in the real world where it can be used to analyse the nutritional content of the food we intake which can be used for various fitness and diet plans.
+ This Research Paper was presented in the International Conference for Intelligent systems and Machine Learning on 16 December,  2022 and it won the Best Paper Award in the conference.
